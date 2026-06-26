@@ -90,7 +90,7 @@ def main():
             changed_credit_limit, num_credit_inquiries, credit_mix,
             outstanding_debt, credit_utilization_ratio, payment_of_min_amount,
             total_emi_per_month, amount_invested_monthly, monthly_balance,
-            payment_behaviour, occupation, credit_mix
+            payment_behaviour, occupation
         ]
 
         try:
